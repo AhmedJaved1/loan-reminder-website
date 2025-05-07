@@ -1,0 +1,18 @@
+.status-badge {
+    padding: 5px 10px;
+    border-radius: 12px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.status-paid {
+    background-color: #e6f7e6;
+    color: #4CAF50;
+}
+.status-pending {
+    background-color: #fff8e6;
+    color: #FFC107;
+}
+.status-overdue {
+    background-color: #ffebee;
+    color: #F44336;
+}
